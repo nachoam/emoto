@@ -1,6 +1,6 @@
 # emoto
 
-> My neat Nuxt.js project
+> My top-notch Nuxt.js project
 
 ## Build Setup
 
