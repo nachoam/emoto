@@ -1,7 +1,11 @@
 import colors from 'vuetify/es5/util/colors'
 
 export default {
-  mode: 'spa',
+  target: 'static',
+  router: {
+    base: '/emoto>/'
+  },
+  ssr: false,
   /*
   ** Headers of the page
   */
