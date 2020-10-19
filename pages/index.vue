@@ -2,8 +2,9 @@
   <div class="container" >
     <div >
       <logo />
-      <div class="mt-10 title text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl">
-        COMING SOON
+      <div class="mt-10 title text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl 
+       transition duration-500 ease-in-out text-black-500 hover:text-orange-400 transform hover:-translate-y-1 hover:scale-110">
+        COMING SOON2
       </div>
      
     </div>
